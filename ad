@@ -1,0 +1,66 @@
+[33mcommit 4f48b35b72d043a5aec35e2f9e6950c18e5462db[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 15279d2 0481b75
+Author: unknown <1206412183@qq.com>
+Date:   Sun Jul 7 11:04:40 2019 +0800
+
+    merge with no-ff
+
+[33mcommit 0481b75a7bfdb655f09910f5d90f7d05108edcb1[m[33m ([m[1;32mdev[m[33m)[m
+Author: unknown <1206412183@qq.com>
+Date:   Sun Jul 7 11:01:06 2019 +0800
+
+    add merge
+
+[33mcommit 15279d27bf47d1c999b095ef933d7725d51c3513[m
+Author: unknown <1206412183@qq.com>
+Date:   Sat Jul 6 21:13:43 2019 +0800
+
+    & simple
+
+[33mcommit 60159ba3be6bf2c64237afddb3f3cfe1e003d683[m
+Author: unknown <1206412183@qq.com>
+Date:   Sat Jul 6 20:55:26 2019 +0800
+
+    &simple
+
+[33mcommit f5d40583c1c6567cbd26b1d7b012aee855bdffbf[m
+Author: unknown <1206412183@qq.com>
+Date:   Sat Jul 6 20:48:30 2019 +0800
+
+    branch test
+
+[33mcommit 1435f2f679363f35bd1f1cf3e266c3b1d3617e2a[m
+Author: unknown <1206412183@qq.com>
+Date:   Sat Jul 6 20:39:54 2019 +0800
+
+    branch test
+
+[33mcommit 89755eeda21ae619cce2a291ddf349add6429443[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: unknown <1206412183@qq.com>
+Date:   Sat Jul 6 18:53:55 2019 +0800
+
+    remove test.txt
+
+[33mcommit ef80839f30bc0d2f07c3713a85351f62b06a7405[m
+Author: unknown <1206412183@qq.com>
+Date:   Sat Jul 6 18:39:19 2019 +0800
+
+    understand how stages works
+
+[33mcommit e6a627b4d607e885257c0eb4d5caeeeab84f85d9[m
+Author: unknown <1206412183@qq.com>
+Date:   Sat Jul 6 17:34:36 2019 +0800
+
+    append GPL
+
+[33mcommit 0def68ef2c7392ae3ddf4c3cc57ca79f7bd0a723[m
+Author: unknown <1206412183@qq.com>
+Date:   Sat Jul 6 17:31:54 2019 +0800
+
+    add distributed
+
+[33mcommit 45ac75b455233991862e341435324cc4ccf723d1[m
+Author: unknown <1206412183@qq.com>
+Date:   Sat Jul 6 17:25:58 2019 +0800
+
+    wrote a readme file
